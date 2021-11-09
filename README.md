@@ -1,8 +1,10 @@
 ## README
 
 Name : Abhilash Kundoor
-Application Name : Food Ordering Chatbot
-Description : This application enables users to order food via a online chatbot. It also shows a list of products 
+
+Application Name : Hardware Selling Chatbot
+
+Description : This application enables users to order hardware via a online chatbot. It also shows a list of products the company is selling. User can easily select the product he/she wants to buy by choosing the corresponding number. Once the user completes purchase, he/she has an option to do the checkout. A receipt that contains the products he/she bought is shown along with the price including tax.
 
 Steps to install, build and use this blogging site project.
 
