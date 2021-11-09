@@ -6,6 +6,12 @@ Application Name : Hardware Selling Chatbot
 
 Description : This application enables users to order hardware via a online chatbot. It also shows a list of products the company is selling. User can easily select the product he/she wants to buy by choosing the corresponding number. Once the user completes purchase, he/she has an option to do the checkout. A receipt that contains the products he/she bought is shown along with the price including tax.
 
+Instructions : 1. Open the chatbot application via https://hardware-selling-chatbot.herokuapp.com/
+			   2. Select "Start" to start the chatbot.
+			   3. A link is displayed which has the product list with price.
+			   4. Select the product number to buy the product.
+			   5. Select CHECKOUT option to complete the purchase.
+
 Steps to install, build and use this blogging site project.
 
 1. Install github in your machine.
